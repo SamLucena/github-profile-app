@@ -18,5 +18,3 @@ Por padrão a aplicação React vai estar na porta ``http://localhost:3000``.
 Site: <a href="https://samlucena-github-profile.netlify.app" target="_blank">github-profile</a>
 
 Deploy no [Netlify](https://www.netlify.com)
-## Autor
-Samuel Lucena
