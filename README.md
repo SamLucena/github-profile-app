@@ -1,6 +1,6 @@
 # github-profile-app
 
-A aplicação consiste em uma busca de usuários do github, assim mostrando alguns dados personalizados. O projeto usa a api do github ``https://api.github.com/users/``, para o acesso a dados.
+A aplicação consiste em uma busca de usuários do github, de modo simples, assim mostrando alguns dados personalizados. O projeto usa a api do github ``https://api.github.com/users/``, para o acesso a estes dados.
 
 ## Tecnologias Utilizadas
 
