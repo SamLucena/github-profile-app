@@ -15,7 +15,7 @@ git clone https://github.com/SamLucena/projeto-sds3.git
 Por padrão a aplicação React vai estar na porta ``http://localhost:3000``.
 
 ## Produção
-https://samlucena-github-profile.netlify.app
+Site: <a href="https://samlucena-github-profile.netlify.app" target="_blank">github-profile</a>
 
 Deploy no [Netlify](https://www.netlify.com)
 ## Autor
